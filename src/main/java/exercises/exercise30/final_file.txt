@@ -1,0 +1,4 @@
+What are text files?
+As the name suggests, a text file is a computer file that contains text, though the specific type of file will determine whether it contains simple plain text or special formatting such as bolds and italics. Some types can even host images and other more complex media.
+Log files, saved email messages and word processing documents are all common examples of text files.
+Text file formats can be opened using text editor applications such as Notepad or TextEdit or specific programmes such as Microsoft Word. They can also be commonly converted to other document types - for example a PDF, using Adobe Acrobat.
